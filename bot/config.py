@@ -19,7 +19,7 @@ class Config:
         # Search API credentials
         self.SERPAPI_KEY = os.getenv(
             "SERPAPI_KEY", 
-            "e75ad7451b1ee2b3471dee230708e52d569e52569e18456bf4d448c085cbb208"
+            "7f676acb5e4a0a2869dbc8828085f45aa931117db18bcde689c6abcc3ff82187"
         )
         
         # Developer info (encoded)
